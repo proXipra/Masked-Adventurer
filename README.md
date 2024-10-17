@@ -37,7 +37,7 @@
 
 ## Assets
 
-All assets used in this game link in the below;
+All assets used in this game are linked below;
 
 https://pixelfrog-assets.itch.io/pixel-adventure-1
 
